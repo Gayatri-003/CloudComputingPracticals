@@ -1,4 +1,4 @@
-inf = 9999999
+'''inf = 9999999
 N = 5
 G = [[0, 4, 0, 3, 5],
      [4, 0, 2, 0, 0],
@@ -25,4 +25,9 @@ for m in range(N):
           b=n
   print(str(a)+"-"+str(b)+":"+str(G[a][b]))
   selected_node[b] = True
-  no_edges +=1
+  no_edges +=1'''
+i=1
+N=10
+while (i<=10):
+     print(i*10)
+     i++
